@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#title {
+	color:aquamarine;
+	background-color:deeppink;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+.normal {
+	color:seagreen;
+	size: 3em;
+	background-color:greenyellow;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+
+#welcome {
+	color:purple;
+}
+
+a.buas {
+	color:orangered;
+}
+
+body {
+	background-color:darkorange;
+}
